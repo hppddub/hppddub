@@ -15,4 +15,4 @@ previously i've:
 
 feel free to reach out at:
 
-[website](https://stanleyzhou.cv) - [linkedin](https://linkedin.com/in/zhou-stanley) - [x](https://x.com/StanleyZhou1999) - stanleyzhou2008 [at] gmail [dot] com
+[website](https://stanleyzhou.cv) - [linkedin](https://linkedin.com/in/zhou-stanley) - [x](https://x.com/StanleyZhou1999) - stanleyzhou2008 [at] gmail [dot] com - stanley [dot] zhou [at] uwaterloo [dot] ca
