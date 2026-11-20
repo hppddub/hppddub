@@ -7,8 +7,8 @@ about me:
 - computer vision researcher @ [weizmann institute of science](https://www.weizmann.ac.il/complex/feinerman/)
 - software engineering @ [waterloo defence](https://waterloodefence.ca/)
 - interested in foundational machine learning, inference, and world models
-- assorted non-technical interests:
-  - cooking, art deco, urban design, gymming
+- assorted slightly-technical interests:
+  - cooking and food, art deco, urban design, gymming
 
 previously i've:
 
