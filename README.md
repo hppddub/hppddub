@@ -2,10 +2,10 @@
 
 about me:
 
-- studying computer science at [uwaterloo](https://uwaterloo.ca)
-- incoming machine learning engineering intern at qualcomm
-- computer vision researcher at the [weizmann institute of science](https://www.weizmann.ac.il/complex/feinerman/)
-- software engineering at [waterloo defence](https://waterloodefence.ca/)
+- studying computer science @ [uwaterloo](https://uwaterloo.ca)
+- incoming machine learning engineering intern @ [qualcomm](https://www.qualcomm.com/)
+- computer vision researcher @ [weizmann institute of science](https://www.weizmann.ac.il/complex/feinerman/)
+- software engineering @ [waterloo defence](https://waterloodefence.ca/)
 - interested in foundational machine learning, inference, and world models
 
 previously i've:
