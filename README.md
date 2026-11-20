@@ -6,7 +6,7 @@ about me:
 - incoming machine learning engineering intern at qualcomm
 - computer vision researcher at the [weizmann institute of science](https://www.weizmann.ac.il/complex/feinerman/)
 - software engineering at [waterloo defence](https://waterloodefence.ca/)
-- interested in neural networks, foundational machine learning, and world models
+- interested in foundational machine learning, inference, and world models
 
 previously i've:
 
