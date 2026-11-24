@@ -7,9 +7,8 @@ about me:
 - computer vision researcher @ [weizmann institute of science](https://www.weizmann.ac.il/complex/feinerman/)
 - software engineering @ [waterloo defence](https://waterloodefence.ca/)
 - interested in foundational machine learning, inference, and world models (the jepa kind)
-- check out my [portfolio](https://www.stanleyzhou.cv)! 
 - assorted other interests and hobbies:
-  - cooking and food, art deco, urban design, gymming
+  - cooking and food, art deco, urban design, gymming, swimming
 
 previously i've:
 
